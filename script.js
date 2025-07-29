@@ -1,8 +1,8 @@
 const ball = document.getElementById("ball");
 let x = 100;
 let y = 100;
-let vx = 10;
-let vy = 10;
+let vx = 8;
+let vy = 8;
 
 function updatePosition() {
   const containerWidth = window.innerWidth;
